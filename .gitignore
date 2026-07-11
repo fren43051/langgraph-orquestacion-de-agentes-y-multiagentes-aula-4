@@ -1,0 +1,7 @@
+.env
+.idea/
+__pycache__/
+*.db
+*.db-shm
+*.db-wal
+.ipynb_checkpoints/
