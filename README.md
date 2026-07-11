@@ -60,7 +60,7 @@ También puedes explorar los ejemplos en los archivos `.ipynb` incluidos en el r
 
 ## Autores y Contribuyentes
 
-- [Nombre del autor 1] - Desarrollador principal
+- [Fren43051] - Desarrollador principal
 - [Nombre del autor 2] - Colaborador
 
 ¡Contribuciones son bienvenidas! Si deseas contribuir, por favor revisa las instrucciones en el archivo `CONTRIBUTING.md` o envía una solicitud de pull.
