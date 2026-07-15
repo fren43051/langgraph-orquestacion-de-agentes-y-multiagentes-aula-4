@@ -1,0 +1,29 @@
+# Archivos de entorno
+.env
+
+# Otros archivos comunes a ignorar
+__pycache__/
+*.pyc
+*.pyo
+*.pyc
+*.db
+*.sqlite3
+
+# Dependencias
+/node_modules/
+/bower_components/
+
+# Entornos virtuales
+.venv
+env
+
+# Archivos de sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs y bases de datos de desarrollo/test
+/logs/
+/tmp/
+/temp/
+/database/
